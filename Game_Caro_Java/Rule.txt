@@ -1,0 +1,4 @@
+- Trên bàn cờ 3x3 ô vuông. Một người đi X, một người đi O.
+- Khi đến lượt mình, người chơi phải tích vào một ô trên bàn cờ. Người chơi phải tìm cách tích đủ 3 ô theo chiều dọc hoặc chiều ngang hoặc đường chéo mà không bị chặn 2 đầu thì sẽ thắng.
+- Khi đã đi hết bàn cờ mà chưa phân thắng bại thì cũng coi như hòa.
+- Dùng các chỉ số dòng, cột để di chuyển Enter để đánh.

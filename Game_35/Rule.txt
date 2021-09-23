@@ -1,0 +1,5 @@
+-Trò chơi luân phiên giữa người với máy. Mỗi lượt đi, người chơi mỗi phe chỉ được chọn 1 số nguyên trong tập {1,2,3,4,5,6}. Lưu ý, không được chọn lại số mà người kia vừa chọn.
+
+-Ban đầu, tổng SUM = 0. Mỗi người chơi chọn một số và cộng gộp vào tổng SUM.
+
+-Ai làm cho SUM = 35 là người chiến thắng (hoặc khiến đối thủ phải chọn số sao cho tổng SUM > 35).
