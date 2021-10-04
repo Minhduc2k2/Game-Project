@@ -1,0 +1,7 @@
+-Mặc định người chơi sẽ có 5.000.000đ trong tài khoản. Người chơi có quyền đặt cược số tiền ít hơn hoặc bằng số tiền họ đang có
+-Có 3 viên xúc xắc. Mỗi viên có 6 mặt có giá trị từ 1 đến 6.
+-Mỗi lần lắc sẽ ra một kết quả. Tổng = số trên xúc xắc 1 + số trên xúc xắc 2 + số trên xúc xắc 3
+1. Nếu tổng = 3 hoặc 18 => Nhà cái ăn, người chơi thua.
+2. Nếu tổng = 4 -> 10 <=> Xỉu => Nếu người chơi đặt xỉu thì người chơi thắng, ngược lại thua.
+3. Nếu tổng = 11 ->17 <=> Tài => Nếu người chơi đặt tài thì người chơi thắng, ngược lại thua.
+-Người chơi sẽ chơi đến khi hết tiền hoặc tạm dừng cuộc chơi để bảo toàn số tiền kiếm được.
